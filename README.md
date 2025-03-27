@@ -1,3 +1,2 @@
 # expense_tracker
 
-unfinished project
